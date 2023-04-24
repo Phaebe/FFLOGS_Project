@@ -1,0 +1,9 @@
+db.timeline.findOne()
+db.findOne()
+show collections
+use timelineffxiv
+use admin
+show collections;
+show collection;
+use timelineffxiv
+use admin

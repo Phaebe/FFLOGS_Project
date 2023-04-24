@@ -1,0 +1,24 @@
+version: "3.7"
+
+services:
+  mysql:
+    image: mysql:8.0
+    ports:
+      - "3305:3306"
+    volumes:
+      - ./config/mysql/mysql.cnf:/etc/mysql/conf.d/mysql.cnf:ro
+      - ./data/mysql:/var/lib/mysql
+    environment:
+      MYSQL_DATABASE: projectfflogs
+      MYSQL_ROOT_PASSWORD: root
+
+  mongo:
+    image: mongo:6.0.4
+    environment:
+      MONGO_INITDB_DATABASE: timelineffxiv  
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data/mongo:/data/db

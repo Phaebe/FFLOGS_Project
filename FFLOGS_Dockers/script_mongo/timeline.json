@@ -1,0 +1,382 @@
+{
+  "id": "87-500",
+  "encounter_tag": "P8S",
+  "main_boss_name": "HephaistosII",
+  "phases": [
+    {
+      "phase_number": "1",
+      "mechanics": [
+        {
+          "mechanic_name": "Welcoming Committee",
+          "attacks": [
+            {
+              "start_time": "00:00",
+              "end_time": "00:00",
+              "attack_name": "Pull"
+            },
+            {
+              "start_time": "00:10",
+              "end_time": "00:15",
+              "attack_name": "Aioniopyr"
+            },
+            {
+              "start_time": "00:21",
+              "end_time": "00:27",
+              "attack_name": "Tyrant's Unholy Darkness"
+            }
+          ]
+        },
+        {
+          "mechanic_name": "Natural Alignment",
+          "attacks": [
+            {
+              "start_time": "00:35",
+              "end_time": "00:40",
+              "attack_name": "Natural Alignment"
+            },
+            {
+              "start_time": "00:46",
+              "end_time": "00:49",
+              "attack_name": "Twist Nature"
+            },
+            {
+              "start_time": "00:52",
+              "end_time": "00:55",
+              "attack_name": "Tyrant's Flare"
+            },
+            {
+              "start_time": "00:58",
+              "end_time": "00:58",
+              "attack_name": "Forcible Fire III"
+            },
+            {
+              "start_time": "00:58",
+              "end_time": "01:04",
+              "attack_name": "Ashing Blaze"
+            },
+            {
+              "start_time": "01:04",
+              "end_time": "01:04",
+              "attack_name": "Forcible Fire II"
+            },
+            {
+              "start_time": "01:16",
+              "end_time": "01:16",
+              "attack_name": "Forcible Difreeze"
+            },
+            {
+              "start_time": "01:16",
+              "end_time": "01:16",
+              "attack_name": "End of Days"
+            },
+            {
+              "start_time": "01:22",
+              "end_time": "01:22",
+              "attack_name": "Forcible Trifire"
+            },
+            {
+              "start_time": "01:23",
+              "end_time": "01:28",
+              "attack_name": "Aioniopyr"
+            },
+            {
+              "start_time": "01:36",
+              "end_time": "01:43",
+              "attack_name": "Tyrant's Unholy Darkness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase_number": "2",
+      "mechanics": [
+        {
+          "mechanic_name": "High Concept",
+          "attacks": [
+            {
+              "start_time": "01:49",
+              "end_time": "01:54",
+              "attack_name": "High Concept"
+            },
+            {
+              "start_time": "02:03",
+              "end_time": "02:06",
+              "attack_name": "Arcane Control"
+            },
+            {
+              "start_time": "02:06",
+              "end_time": "02:06",
+              "attack_name": "Conceptual Shift"
+            },
+            {
+              "start_time": "02:06",
+              "end_time": "02:06",
+              "attack_name": "Splicer"
+            },
+            {
+              "start_time": "02:12",
+              "end_time": "02:18",
+              "attack_name": "Ashing Blaze"
+            },
+            {
+              "start_time": "02:18",
+              "end_time": "02:18",
+              "attack_name": "Arcane Channel"
+            },
+            {
+              "start_time": "02:39",
+              "end_time": "02:42",
+              "attack_name": "Deconceptualize"
+            },
+            {
+              "start_time": "02:46",
+              "end_time": "02:51",
+              "attack_name": "Aioniopyr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase_number": "3",
+      "mechanics": [
+        {
+          "mechanic_name": "Limitless Desolation (Towers)",
+          "attacks": [
+            {
+              "start_time": "03:00",
+              "end_time": "03:05",
+              "attack_name": "Limitless Desolation"
+            },
+            {
+              "start_time": "03:06",
+              "end_time": "03:06",
+              "attack_name": "Tyrant's Fire III (1)"
+            },
+            {
+              "start_time": "03:09",
+              "end_time": "03:09",
+              "attack_name": "Tyrant's Fire III (2)"
+            },
+            {
+              "start_time": "03:12",
+              "end_time": "03:12",
+              "attack_name": "Tyrant's Fire III (3)"
+            },
+            {
+              "start_time": "03:15",
+              "end_time": "03:15",
+              "attack_name": "Tyrant's Fire III (4)"
+            },
+            {
+              "start_time": "03:14",
+              "end_time": "03:17",
+              "attack_name": "Tyrant's Flare II (1)"
+            },
+            {
+              "start_time": "03:17",
+              "end_time": "03:17",
+              "attack_name": "Burst (1)"
+            },
+            {
+              "start_time": "03:17",
+              "end_time": "03:20",
+              "attack_name": "Tyrant's Flare II (2)"
+            },
+            {
+              "start_time": "03:20",
+              "end_time": "03:20",
+              "attack_name": "Burst (2)"
+            },
+            {
+              "start_time": "03:20",
+              "end_time": "03:23",
+              "attack_name": "Tyrant's Flare II (3)"
+            },
+            {
+              "start_time": "03:23",
+              "end_time": "03:23",
+              "attack_name": "Burst (3)"
+            },
+            {
+              "start_time": "03:23",
+              "end_time": "03:26",
+              "attack_name": "Tyrant's Flare II (4)"
+            },
+            {
+              "start_time": "03:26",
+              "end_time": "03:26",
+              "attack_name": "Burst (4)"
+            },
+            {
+              "start_time": "03:28",
+              "end_time": "03:33",
+              "attack_name": "Aioniopyr"
+            },
+            {
+              "start_time": "03:41",
+              "end_time": "03:47",
+              "attack_name": "Tyrant's Unholy Darkness"
+            }
+          ]
+        },
+        {
+          "mechanic_name": "Natural Alignment 2",
+          "attacks": [
+            {
+              "start_time": "03:57",
+              "end_time": "04:02",
+              "attack_name": "Natural Alignment"
+            },
+            {
+              "start_time": "04:05",
+              "end_time": "04:08",
+              "attack_name": "Inverse Magicks"
+            },
+            {
+              "start_time": "04:11",
+              "end_time": "04:14",
+              "attack_name": "Twist Nature"
+            },
+            {
+              "start_time": "04:23",
+              "end_time": "04:23",
+              "attack_name": "Forcible Fire II/III"
+            },
+            {
+              "start_time": "04:23",
+              "end_time": "04:23",
+              "attack_name": "End of Days"
+            },
+            {
+              "start_time": "04:29",
+              "end_time": "04:29",
+              "attack_name": "Forcible Fire III/II"
+            },
+            {
+              "start_time": "04:42",
+              "end_time": "04:42",
+              "attack_name": "Forcible Trifire"
+            },
+            {
+              "start_time": "04:48",
+              "end_time": "04:48",
+              "attack_name": "Forcible Difreeze"
+            },
+            {
+              "start_time": "04:48",
+              "end_time": "04:54",
+              "attack_name": "Ashing Blaze"
+            },
+            {
+              "start_time": "04:56",
+              "end_time": "05:02",
+              "attack_name": "Aioniopyr"
+            },
+            {
+              "start_time": "05:11",
+              "end_time": "05:17",
+              "attack_name": "Tyrant's Unholy Darkness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase_number": "4",
+      "mechanics": [
+        {
+          "mechanic_name": "High Concept 2",
+          "attacks": [
+            {
+              "start_time": "05:23",
+              "end_time": "05:32",
+              "attack_name": "High Concept"
+            },
+            {
+              "start_time": "05:37",
+              "end_time": "05:40",
+              "attack_name": "Arcane Control"
+            },
+            {
+              "start_time": "05:40",
+              "end_time": "05:40",
+              "attack_name": "Conceptual Shift"
+            },
+            {
+              "start_time": "05:40",
+              "end_time": "05:40",
+              "attack_name": "Splicer"
+            },
+            {
+              "start_time": "05:52",
+              "end_time": "05:52",
+              "attack_name": "Arcane Channel"
+            },
+            {
+              "start_time": "05:46",
+              "end_time": "05:52",
+              "attack_name": "Ashing Blaze"
+            },
+            {
+              "start_time": "06:10",
+              "end_time": "06:10",
+              "attack_name": "End of Days"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase_number": "5",
+      "mechanics": [
+        {
+          "mechanic_name": "Soft Enrage (Dominion)",
+          "attacks": [
+            {
+              "start_time": "06:20",
+              "end_time": "06:34",
+              "attack_name": "Ego Death"
+            },
+            {
+              "start_time": "06:57",
+              "end_time": "07:05",
+              "attack_name": "Aionagonia"
+            },
+            {
+              "start_time": "07:08",
+              "end_time": "07:15",
+              "attack_name": "Dominion"
+            },
+            {
+              "start_time": "07:16",
+              "end_time": "07:16",
+              "attack_name": "Orogenic Deformation"
+            },
+            {
+              "start_time": "07:16",
+              "end_time": "07:23",
+              "attack_name": "Orogenic Shift (1)"
+            },
+            {
+              "start_time": "07:22",
+              "end_time": "07:29",
+              "attack_name": "Orogenic Shift (2)"
+            }
+          ]
+        },
+        {
+          "mechanic_name": "Enrage",
+          "attacks": [
+            {
+              "start_time": "08:10",
+              "end_time": "08:26",
+              "attack_name": "Ego Death"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

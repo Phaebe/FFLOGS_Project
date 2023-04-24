@@ -1,0 +1,63 @@
+id,encounter_tag,main_boss_name,phase,mechanic_name,attack_name,start_time,end_time
+87,P8S,HephaistosII,1,Welcoming Committee,Pull,00:00,00:00
+87,P8S,HephaistosII,1,Welcoming Committee,Aioniopyr,00:10,00:15
+87,P8S,HephaistosII,1,Welcoming Committee,Tyrant's Unholy Darkness,00:21,00:27
+87,P8S,HephaistosII,1,Natural Alignment,Natural Alignment,00:35,00:40
+87,P8S,HephaistosII,1,Natural Alignment,Twist Nature,00:46,00:49
+87,P8S,HephaistosII,1,Natural Alignment,Tyrant's Flare,00:52,00:55
+87,P8S,HephaistosII,1,Natural Alignment,Forcible Fire III,00:58,00:58
+87,P8S,HephaistosII,1,Natural Alignment,Ashing Blaze,00:58,01:04
+87,P8S,HephaistosII,1,Natural Alignment,Forcible Fire II,01:04,01:04
+87,P8S,HephaistosII,1,Natural Alignment,Forcible Difreeze,01:16,01:16
+87,P8S,HephaistosII,1,Natural Alignment,End of Days,01:16,01:16
+87,P8S,HephaistosII,1,Natural Alignment,Forcible Trifire,01:22,01:22
+87,P8S,HephaistosII,1,Natural Alignment,Aioniopyr,01:23,01:28
+87,P8S,HephaistosII,1,Natural Alignment,Tyrant's Unholy Darkness,01:36,01:43
+87,P8S,HephaistosII,2,High Concept,High Concept,01:49,01:54
+87,P8S,HephaistosII,2,High Concept,Arcane Control,02:03,02:06
+87,P8S,HephaistosII,2,High Concept,Conceptual Shift,02:06,02:06
+87,P8S,HephaistosII,2,High Concept,Splicer,02:06,02:06
+87,P8S,HephaistosII,2,High Concept,Ashing Blaze,02:12,02:18
+87,P8S,HephaistosII,2,High Concept,Arcane Channel,02:18,02:18
+87,P8S,HephaistosII,2,High Concept,Deconceptualize,02:39,02:42
+87,P8S,HephaistosII,2,High Concept,Aioniopyr,02:46,02:51
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Limitless Desolation,03:00,03:05
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Tyrant's Fire III (1),03:06,03:06
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Tyrant's Fire III (2),03:09,03:09
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Tyrant's Fire III (3),03:12,03:12
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Tyrant's Fire III (4),03:15,03:15
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Tyrant's Flare II (1),03:14,03:17
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Burst (1),03:17,03:17
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Tyrant's Flare II (2),03:17,03:20
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Burst (2),03:20,03:20
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Tyrant's Flare II (3),03:20,03:23
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Burst (3),03:23,03:23
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Tyrant's Flare II (4),03:23,03:26
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Burst (4),03:26,03:26
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Aioniopyr,03:28,03:33
+87,P8S,HephaistosII,3,Limitless Desolation (Towers),Tyrant's Unholy Darkness,03:41,03:47
+87,P8S,HephaistosII,3,Natural Alignment 2,Natural Alignment,03:57,04:02
+87,P8S,HephaistosII,3,Natural Alignment 2,Inverse Magicks,04:05,04:08
+87,P8S,HephaistosII,3,Natural Alignment 2,Twist Nature,04:11,04:14
+87,P8S,HephaistosII,3,Natural Alignment 2,Forcible Fire II/III,04:23,04:23
+87,P8S,HephaistosII,3,Natural Alignment 2,End of Days,04:23,04:23
+87,P8S,HephaistosII,3,Natural Alignment 2,Forcible Fire III/II,04:29,04:29
+87,P8S,HephaistosII,3,Natural Alignment 2,Forcible Trifire,04:42,04:42
+87,P8S,HephaistosII,3,Natural Alignment 2,Forcible Difreeze,04:48,04:48
+87,P8S,HephaistosII,3,Natural Alignment 2,Ashing Blaze,04:48,04:54
+87,P8S,HephaistosII,3,Natural Alignment 2,Aioniopyr,04:56,05:02
+87,P8S,HephaistosII,3,Natural Alignment 2,Tyrant's Unholy Darkness,05:11,05:17
+87,P8S,HephaistosII,4,High Concept 2,High Concept,05:23,05:32
+87,P8S,HephaistosII,4,High Concept 2,Arcane Control,05:37,05:40
+87,P8S,HephaistosII,4,High Concept 2,Conceptual Shift,05:40,05:40
+87,P8S,HephaistosII,4,High Concept 2,Splicer,05:40,05:40
+87,P8S,HephaistosII,4,High Concept 2,Arcane Channel,05:52,05:52
+87,P8S,HephaistosII,4,High Concept 2,Ashing Blaze,05:46,05:52
+87,P8S,HephaistosII,4,High Concept 2,End of Days,06:10,06:10
+87,P8S,HephaistosII,5,Soft Enrage (Dominion),Ego Death,06:20,06:34
+87,P8S,HephaistosII,5,Soft Enrage (Dominion),Aionagonia,06:57,07:05
+87,P8S,HephaistosII,5,Soft Enrage (Dominion),Dominion,07:08,07:15
+87,P8S,HephaistosII,5,Soft Enrage (Dominion),Orogenic Deformation,07:16,07:16
+87,P8S,HephaistosII,5,Soft Enrage (Dominion),Orogenic Shift (1),07:16,07:23
+87,P8S,HephaistosII,5,Soft Enrage (Dominion),Orogenic Shift (2),07:22,07:29
+87,P8S,HephaistosII,5,Enrage,Ego Death,08:10,08:26

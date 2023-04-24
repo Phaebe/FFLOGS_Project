@@ -1,0 +1,56 @@
+version: "3.7"
+
+services:
+  mysql_projectfflogs:
+    image: mysql:8.0
+    container_name: mysql_projectfflogs
+    ports:
+      - "3305:3306"        
+    volumes:
+      - ./config/mysql/mysql.cnf:/etc/mysql/conf.d/mysql.cnf:ro
+      - ./data/mysql:/var/lib/mysql
+    environment:
+      MYSQL_DATABASE: projectfflogs
+      MYSQL_ROOT_PASSWORD: root
+    networks:
+      - network_projectfflogs
+
+  mongo_projectfflogs:
+    image: mongo:latest
+    container_name: mongo_projectfflogs
+    environment:
+      MONGO_INITDB_DATABASE: timelineffxiv  
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: root
+    ports:
+      - "27018:27017"
+    volumes:
+      - ./data/mongo:/data/db
+      - ./script_mongo/timeline.json:/data/db/timeline.json
+    networks:
+      - network_projectfflogs
+  
+  fastapi:
+    container_name: fastapi_projectfflogs
+    image: phaebe/projectfflogs_api:1.0.0
+    ports:
+      - '8001:8000'
+    environment:
+      MONGO_HOST: mongo_projectfflogs
+      MONGO_PORT: 27017
+      MONGO_USER: admin
+      MONGO_PASSWORD: root
+      MONGO_DB: timelineffxiv
+      MYSQL_HOST: mysql_projectfflogs
+      MYSQL_PORT: 3306
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root
+      MYSQL_DB: projectfflogs
+    depends_on:
+      - mysql_projectfflogs
+      - mongo_projectfflogs
+    networks:
+      - network_projectfflogs
+
+networks:
+  network_projectfflogs:
